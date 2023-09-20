@@ -1,0 +1,11 @@
+Sophia Patel	0_1	1_0	
+Liam Wong	1_1	0_5	
+Olivia Nguyen	1_1	0_0	1_3
+Noah Singh	1_1	0_4	1_0
+Emma González	0_5	1_4	1_3
+Lucas Li	0_3	1_1	0_4
+Ava Dubois	0_3	0_0	0_5
+Ethan Kim	1_4	0_3	0_5
+Isabella Ahmed	1_0	0_5	0_2
+Mason Chen	1_1	0_0	
+Hector Guzman	2_3	
