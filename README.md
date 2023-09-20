@@ -1,5 +1,5 @@
-# HeuristicTimeTablingProblem
-A heuristic approach to the timetabling problem.
+# Heuristic solution to the TimeTabling Problem
+A form of optimizing the assignment of students on a calendar based on multiple preferred time slots provided by each student.
 
 ```python
 # The algorithm
