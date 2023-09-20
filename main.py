@@ -148,9 +148,9 @@ for i in range(1000):
             if time not in [st["TIME"] for st in candidateFinal]:
                 st = {"NAME":chosen.name,"TIME":time,"DAY":""}
                 candidateFinal.append(st)
+                cloneLos.remove(chosen)
                 break
         tries += 1
-        cloneLos.remove(chosen)
     if len(bestFinal)<= len(candidateFinal):
         bestFinal = candidateFinal
         conflictedStudents = list(cloneLos)
@@ -168,14 +168,14 @@ listToExport = list(bestFinal)
 
 # [print(st["NAME"],st["DAY"],st["TIME"]) for st in bestFinal]
 # print("\nConflicted students:")
-# print("All students were assigned!") if len(conflictedStudents)==0 else [print(student["NAME"]) for student in conflictedStudents]
+print("All students were assigned!") if len(conflictedStudents)==0 else [print(student["NAME"]) for student in conflictedStudents]
 
 def findStudentByIndex_d(d):
     for st in bestFinal:
         if d == st["TIME"]:
             return st
 
-[print(st["TIME"],st["NAME"]) for st in bestFinal]
+# [print(st["TIME"],st["NAME"]) for st in bestFinal]
 r = 0
 c = 0
 for d in range(TOTAL_DAYS):
