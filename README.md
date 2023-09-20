@@ -16,4 +16,5 @@ A heuristic approach to the timetabling problem.
                 #      stop looking for more STUDENT times
         # tries += 1
 ```
-[!Video Tutorial](https://github.com/UGarCil/ugarcil.github.io/blob/master/Images/thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=2OtvSYY6bZw&ab_channel=SiliconHeart)https://www.youtube.com/watch?v=2OtvSYY6bZw&ab_channel=SiliconHeart)
+
+[![Video Title](http://img.youtube.com/vi/2OtvSYY6bZw/0.jpg)](https://www.youtube.com/watch?v=2OtvSYY6bZw)
