@@ -17,5 +17,5 @@ A heuristic approach to the timetabling problem.
         # tries += 1
 ```
 
-Here is an introduction and video tutorial:
+Here is an introduction and video tutorial:  
 [![Video Tutorial](http://img.youtube.com/vi/2OtvSYY6bZw/0.jpg)](https://www.youtube.com/watch?v=2OtvSYY6bZw)
